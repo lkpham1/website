@@ -1,0 +1,62 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homework 4</title>
+    <link rel="stylesheet" href="./Pham_Linh.css">
+    <link href='https://fonts.googleapis.com/css?family=Cormorant Upright' rel='stylesheet'>
+</head>
+<body>
+    <div class="grid-container">
+        <div class="grid-item title">
+            <h1 font-style="40px bold">Whisk & Sip</h1>
+            <h3>
+                <em>"Let's m-a-t-c-h-a up our lives with delighted green powder"</em>
+            </h3>
+        </div>
+        <div class="hero-image">
+            <img 
+                class="centered-image" 
+                src="./images/matcha_icecream.jpg" 
+                alt="matcha ice cream"
+                width="550px"
+                height="520px">
+        </div>
+        <div class = 'grid-item intro'>
+            <h2>
+                Welcome to Whisk&Sip, where we explore the world of this vibrant powdered green tea.
+            </h2>
+        </div>
+        
+        <div class = "grid-item reasons">
+            <h2>What makes this blog a must-visit in your life?</h2>
+            <h3>
+                <ol>
+                    <li>Discover a variety of Matcha recipes - from classic latte to creative desserts</li>
+                    <li>Learn about its rich history and significant culture</li>
+                    <li>Dive into the benefits of this powered green tea</li>
+                    <li>Create Matcha lover community</li>
+                    <li>Receive regular news and updates</li>
+                </ol>
+            </h3>
+        </div>
+        <div class="grid-item contact">
+            <h2>
+                Share your Matcha experiences, and stay updated with our posts. For more information, connect with us at:
+                <br>
+                <a href="mailto:linh.pham@asu.edu?subject=Ask me a question" target="_top">
+                    linh.pham@asu.edu</a>
+                <br>
+                Phone: 1-800-123-456
+            </h2> 
+        </div>
+        <div class="grid-item aboutus">
+            <h3>
+                We started this blog out of our love for Matcha and the desire to share its magic with the world. Whether you're a Matcha enthusiast or a curious newcomer, join us on a journey to celebrate the magic of Matcha and embrace a lifestyle steeped in flavor, tradition, and well-being!
+            </h3>
+        </div>
+    </div>
+    
+</body>
+</html>
